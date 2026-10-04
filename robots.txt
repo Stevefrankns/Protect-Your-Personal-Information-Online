@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://stevefrankns.github.io/Protect-Your-Personal-Information-Online/sitemap.xml
